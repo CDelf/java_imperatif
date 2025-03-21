@@ -1,6 +1,6 @@
 package fr.operateurs;
 
-public class operateursApp {
+public class OperateursApp {
 
     public static void main(String[] args) {
         int a = 10;
